@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8" />
+    <link href="browse_style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+    </style>
+    <title>Cultural Heritage Portal</title>
+</head>
+<body>
+
+	<div id="header_wrap">
+      <header>
+        <ul>
+          <li><%= link_to "Home", '/' %></li>
+          <li><%= link_to "Browse", browse_path %></li>
+          <li><%= link_to "About Us", about_path %></li>
+          <li><a href="/"><p>Sign In</p></li>
+        </ul>
+      </header>
+      <div id="center_text"><p>Here the user will search for documents and be returned the documents most relevant to their search.</p></div>
+    </div>
+
+</body>
+</html>

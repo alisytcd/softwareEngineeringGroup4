@@ -1,0 +1,7 @@
+- adjust the landing page to better fit with the rest of the site
+- log out button should permiate all pages and lead to landing page
+- changing the hover colour back to orange (deal with it bro)
+
+these are just notes for myself, no need to pay any of this any attention
+
+cade out.
